@@ -26,7 +26,7 @@ public class Bola {
     }
     //method void showVolume
     public void showVolume(){
-        System.out.println("Volume Bola adalah : "+(4*Math.PI*jarijari*jarijari/3));//rumus volume bola
+        System.out.println("Volume Bola adalah : "+(4*Math.PI*jarijari*jarijari*jarijari/3));//rumus volume bola
     }
     
 }
